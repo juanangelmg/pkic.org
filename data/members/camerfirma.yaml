@@ -1,0 +1,50 @@
+id: camerfirma
+name: Camerfirma
+slogan: 20 years offering trust, reliability and security
+website: https://www.camerfirma.com/
+
+# Short description, longer content can be placed in `content/members/`
+description: Camerfirma forma parte del grupo Infocert, y junto con las Cámaras de Comercio Españolas es uno de los principales actores en la transformación digital de las empresas y autónomos en España y Latam
+
+# membership
+memberSince: 2022-05-06
+memberType: CA
+workingGroups:
+  - CA
+
+# Blog posts
+blog:
+  url: https://www.camerfirma.com/blog-futuro-digital/
+  feed: https://www.camerfirma.com/blog-futuro-digital/feed/
+  language: es_ES
+
+# Press Releases
+press: 
+  url:
+  feed: 
+  language:
+
+# Careers
+careers: 
+  url:
+  feed: 
+  language:
+
+# Social media
+social:
+  twitter: https://twitter.com/camerfirma
+  facebook: https://www.facebook.com/camerfirmaes
+  instagram: 
+  linkedin: https://www.linkedin.com/company/ca-camerfirma-s.a./
+  youtube: https://www.youtube.com/channel/UCqQusYEacC1YxgWZhJBc25A
+
+# Here you can list those who represent the member
+representatives:
+  - id: juanangelmartin
+    name: Juan Ángel Martín
+    role: Consultor Área Cumplimiento Tecnico
+    social:
+      twitter:
+      linkedin: https://www.linkedin.com/in/juan-angel-martin-32503b6/
+    description:
+     Juan Ángel Martín lleva trabajando en PKI desde el año 2000.
